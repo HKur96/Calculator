@@ -11,6 +11,7 @@
 		0420B70D2AED564C0061F13D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420B70C2AED564C0061F13D /* ContentView.swift */; };
 		0420B70F2AED564E0061F13D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0420B70E2AED564E0061F13D /* Assets.xcassets */; };
 		0420B7122AED564E0061F13D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0420B7112AED564E0061F13D /* Preview Assets.xcassets */; };
+		0420B7192AEE280F0061F13D /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420B7182AEE280F0061F13D /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0420B70C2AED564C0061F13D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0420B70E2AED564E0061F13D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0420B7112AED564E0061F13D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0420B7182AEE280F0061F13D /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0420B70A2AED564C0061F13D /* Calculator_AppApp.swift */,
 				0420B70C2AED564C0061F13D /* ContentView.swift */,
+				0420B7182AEE280F0061F13D /* CustomTextField.swift */,
 				0420B70E2AED564E0061F13D /* Assets.xcassets */,
 				0420B7102AED564E0061F13D /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				0420B70D2AED564C0061F13D /* ContentView.swift in Sources */,
 				0420B70B2AED564C0061F13D /* Calculator_AppApp.swift in Sources */,
+				0420B7192AEE280F0061F13D /* CustomTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
